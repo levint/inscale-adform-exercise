@@ -1,0 +1,22 @@
+{
+  "owners": [
+    {
+      "id": "ck286cwih000028mo2ww9hy0y",
+      "name": "John Doe",
+      "address": "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "phone": "012345678",
+      "email": "johndoe@example.com"
+    }
+  ],
+  "pets": [
+    {
+      "id": "ck286rawq00002opxaoge8lnk",
+      "type": "DOG",
+      "name": "Sass",
+      "colour": "black",
+      "age": "2",
+      "breed": "Labrador",
+      "ownerId": "ck286cwih000028mo2ww9hy0y"
+    }
+  ]
+}

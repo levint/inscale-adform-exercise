@@ -1,0 +1,14 @@
+.git
+.gitignore
+.vscode
+README.md
+
+api/__tests__
+api/node_modules
+api/**/*.spec.js
+api/.editorconfig
+api/.eslintrc.js
+api/.prettierrc.js
+api/nodemon.json
+api/.mocharc.js
+api/npm-debug.log

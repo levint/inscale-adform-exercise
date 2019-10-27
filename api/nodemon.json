@@ -1,0 +1,12 @@
+{
+  "verbose": false,
+  "ignore": ["node_modules", "./src/**/*.spec.js"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "execMap": {
+    "js": "babel-node"
+  },
+  "ext": ".js",
+  "watch": ["./src"]
+}
